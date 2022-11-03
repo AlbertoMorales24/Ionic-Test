@@ -3,3 +3,6 @@ erick
 angel
 ivan
 erick
+jose
+arturo
+luis
